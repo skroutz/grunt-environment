@@ -1,6 +1,6 @@
 {
   "name": "grunt-contrib-environment",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Flexible environment configuration with Grunt",
   "homepage": "https://github.com/darth-wade/grunt-contrib-environment",
   "author": {
